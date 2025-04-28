@@ -1,0 +1,5 @@
+# Virtual environment
+.venv/
+
+# PyCharm/IntelliJ IDEA project files
+.idea/
