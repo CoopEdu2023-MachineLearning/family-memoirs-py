@@ -1,5 +1,5 @@
 import re
-from typing import Dict, Any, Optional
+from typing import Dict, Any
 from alibabacloud_dm20151123.client import Client as Dm20151123Client
 from alibabacloud_tea_openapi import models as open_api_models
 from alibabacloud_dm20151123 import models as dm_20151123_models

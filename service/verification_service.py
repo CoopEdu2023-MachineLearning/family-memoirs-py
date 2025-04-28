@@ -1,7 +1,6 @@
 import random
 import redis
 import logging
-from typing import Optional
 
 logger = logging.getLogger(__name__)
 
